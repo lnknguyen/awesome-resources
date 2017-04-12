@@ -55,7 +55,3 @@ List of worth reading articles on many categories that I came across
  
   A worth reading article can be found at: https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
  
- ```java
-   import com.*;
- 
- ```
